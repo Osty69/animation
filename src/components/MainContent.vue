@@ -50,12 +50,12 @@
 				<CharacterCard
 					name="Макс Скайлер"
 					description="Макс склонен к внутренним монологам, часто размышляя о своей жизни и планах. Умеет быстро адаптироваться к меняющимся обстоятельствам."
-					imageUrl="src/assets/4-nikolai-chekhov-portret-antona-chekhova-fragment-1884-gosudarstvennyi-literaturnyi-muzei-moskva-jpg.webp"
+					imageUrl="./4-nikolai-chekhov-portret-antona-chekhova-fragment-1884-gosudarstvennyi-literaturnyi-muzei-moskva-jpg.webp"
 				/>
 				<CharacterCard
 					name="Билл Харпер"
 					description="Билл часто комментирует происходящее с сарказмом. Обладает хорошими навыками взлома и технической подготовки."
-					imageUrl="/src/assets/zhyustin-florentino-vzglyad-devushki-s-kosoi.jpg"
+					imageUrl="./zhyustin-florentino-vzglyad-devushki-s-kosoi.jpg"
 				/>
 			</div>
 		</section>
@@ -63,7 +63,7 @@
 		<section id="animation" class="mt-6">
 			<h2 class="font-old font-[900] text-[48px] text-center">Анимация</h2>
 			<iframe
-				src="/src/assets/snake/животные.html"
+				src="./final.mp4"
 				class="flex items-center justify-center w-full aspect-video"
 				frameborder="0"
 			></iframe>
