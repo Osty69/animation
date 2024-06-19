@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+	background-color: rgb(245, 245, 245);
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Comfortaa', sans-serif;
+}
