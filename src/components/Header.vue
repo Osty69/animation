@@ -1,5 +1,6 @@
 <template>
-	<header class="flex items-center justify-end py-6 px-[72px] border-b border-black">
+	<header class="flex items-center py-6 px-[72px] gap-[525px] border-b border-black">
+		<h1 class="cursor-pointer flex text-[32px] hover:opacity-50 transition duration-500">Финальная работа</h1>
 		<nav class="flex space-x-[38px]">
 			<a
 				href="https://adobe-animate-website.vercel.app/"

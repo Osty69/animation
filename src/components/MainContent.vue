@@ -3,7 +3,7 @@
 		<section class="flex flex-col md:flex-row">
 			<div class="flex items-center justify-start md:w-[800px]">
 				<img
-					src="/src/assets/1696520600_gas-kvas-com-p-kartinki-kvadratnie-29.jpg"
+					src="/public/plakat.png"
 					alt="poster"
 					class="flex max-w-[720px]"
 				/>
@@ -50,12 +50,12 @@
 				<CharacterCard
 					name="Макс Скайлер"
 					description="Макс склонен к внутренним монологам, часто размышляя о своей жизни и планах. Умеет быстро адаптироваться к меняющимся обстоятельствам."
-					imageUrl="./4-nikolai-chekhov-portret-antona-chekhova-fragment-1884-gosudarstvennyi-literaturnyi-muzei-moskva-jpg.webp"
+					imageUrl="./maks.png"
 				/>
 				<CharacterCard
 					name="Билл Харпер"
 					description="Билл часто комментирует происходящее с сарказмом. Обладает хорошими навыками взлома и технической подготовки."
-					imageUrl="./zhyustin-florentino-vzglyad-devushki-s-kosoi.jpg"
+					imageUrl="./bill.png"
 				/>
 			</div>
 		</section>
